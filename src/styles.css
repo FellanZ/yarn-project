@@ -75,10 +75,14 @@ body {
   background-color: #462cb3;
 }
 
+a.btn {
+  border-radius: 5px;
+}
+
 section {
   max-width: 100%;
   margin: 0 auto;
-  padding: 100px;
+  padding: 70px 100px;
 }
 
 section.secondary {
@@ -132,6 +136,9 @@ header a {
   background: white;
 }
 
+a {
+  border-radius: 5px;
+}
 main {
   background-color: white;
 }
@@ -157,7 +164,7 @@ main h3 {
 
 main h4 {
   font-weight: 700;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 1;
   color: #272044;
   margin: 0;
@@ -165,7 +172,7 @@ main h4 {
 
 main h5 {
   font-weight: 700;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 1;
   color: #272044;
   margin: 0;
